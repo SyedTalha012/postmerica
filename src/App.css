@@ -1,0 +1,16 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+
+body{
+  width: 100vw;
+  font-family: "Bricolage Grotesque", sans-serif;
+  color: #0A1B3C;
+}
+
+::-webkit-scrollbar{
+  display: none;
+}
