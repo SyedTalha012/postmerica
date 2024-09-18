@@ -10,7 +10,7 @@ const Footer = () => {
                     <img src={Logo} alt="" className='h-[10rem]' />
                     <h1 className='text-3xl font-bold ml-[-4rem] text-white'>Post<span className='text-orangeColor'>Merica</span></h1>
                 </div>
-                <p className='text-[#AFAFAF] ml-8'>We are NullShip, no subscription or <br /> hidden fees, and best shipping rates</p>
+                <p className='text-[#AFAFAF] ml-8'>We are PostMerica, no subscription or <br /> hidden fees, and best shipping rates</p>
                 <p className='text-[#AFAFAF] ml-8 mt-6'>© 2024 PostMerica All Right Reserved</p>
 
             </div>
